@@ -28,6 +28,8 @@ while True:
             print(f'Maior salário: {salariomax}')
             print(f'Menor salário: {salariomin}')
             break
+        case _:
+            print('Opção inválida. Digite 1 para adicionar família ou 2 para sair e exibir resultados.')
 
 print('\nFeito por: Maria Clara')
 print('R.A.: 026.085188')

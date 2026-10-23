@@ -23,3 +23,5 @@ elif 5 <= media <= 6.9:
     print("Situação: Recuperação")
 else:
     print("Situação: Reprovado")
+
+print('\nFeito por: Camilla')

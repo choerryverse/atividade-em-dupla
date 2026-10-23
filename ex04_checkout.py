@@ -31,3 +31,5 @@ elif forma_pagamento == 2:
 
 else:
     print("\nErro: Forma de pagamento inválida. Digite 1 para à vista ou 2 para a prazo.")
+
+print('\nFeito por: Camilla')
